@@ -38,4 +38,3 @@ int checkLogin(char *login, char *passwd, char logindb[][64], char passdb[][64],
 
     return 0;
 }
-*/
